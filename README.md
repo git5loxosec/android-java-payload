@@ -39,3 +39,4 @@ This project is intended solely for educational purposes. The developers disclai
 :question: Support and Contribution
 Feedback, suggestions, and contributions are welcome. Please adhere to standard coding practices and maintain the ethical use of this application.
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgit5loxosec%2Fandroid-java-payload%2F&label=Project%20visitors&countColor=%23263759&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgit5loxosec%2Fandroid-java-payload%2F)
