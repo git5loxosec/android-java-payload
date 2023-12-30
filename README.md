@@ -33,11 +33,13 @@ Malware Risks: Given its capabilities, this application could be misconstrued as
 :memo: No Warranty
 As-Is Software: This software is provided 'as-is', without any form of warranty. The developers bear no responsibility for any misuse, damages, or losses that may arise from the use of this software.
 
- <a href='http://www.freevisitorcounters.com'>Free Counter</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=79aef3e207c847a5f441a5b57ff0f02a1e7b823d'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1119805/t/2"></script>
-
 :exclamation: Disclaimer
 This project is intended solely for educational purposes. The developers disclaim all responsibility for misuse or any damage caused by this software. Users are obligated to obtain explicit authorization before employing this tool in any network or system.
 
 :question: Support and Contribution
 Feedback, suggestions, and contributions are welcome. Please adhere to standard coding practices and maintain the ethical use of this application.
+
+<html>
+  <a href='http://www.freevisitorcounters.com'>Free Counter</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=79aef3e207c847a5f441a5b57ff0f02a1e7b823d'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1119805/t/2"></script>
+</html>
