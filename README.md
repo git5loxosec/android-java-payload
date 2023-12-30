@@ -39,7 +39,3 @@ This project is intended solely for educational purposes. The developers disclai
 :question: Support and Contribution
 Feedback, suggestions, and contributions are welcome. Please adhere to standard coding practices and maintain the ethical use of this application.
 
-<html>
-  <a href='http://www.freevisitorcounters.com'>Free Counter</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=79aef3e207c847a5f441a5b57ff0f02a1e7b823d'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1119805/t/2"></script>
-</html>
